@@ -8,6 +8,7 @@
 `npm link`
 
 ## 使用
-
+`cezhou init` - 初始化模板
+`cezhou build` - 打包
 
 ## 其他
